@@ -64,4 +64,3 @@ docs/NETLIFY.md
 - 制作脚本需 Blender Python；访客和静态托管不需要Blender。可用 `blender --background --factory-startup --python tools/generate_sample_relief.py` 重生成素材。
 - 源码与上述程序示例资源采用 MIT 许可。加入自己的照片或模型后，请自行标注这些素材的授权。
 - 默认示例邮箱 `hello@example.com` 仅作占位。
-
